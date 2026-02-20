@@ -41,7 +41,10 @@ module.exports = {
           700: '#2a2a2a',
           600: '#3a3a3a',
           500: '#4a4a4a',
-        }
+        },
+        background: '#0a0a0a',
+        foreground: '#ffffff',
+        border: '#2a2a2a'
       },
       fontFamily: {
         sans: ['Inter', 'system-ui', 'sans-serif'],
